@@ -6,7 +6,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaduque&show_icons=true&theme=gruvbox)](https://github.com/luccaduque/github-readme-stats)
+
 
 ### Tecnologias que uso no meu cotidiano 🖥️
 
